@@ -20,5 +20,10 @@
     "action": {
         "default_popup": "popup.html",
         "default_title": "Songsterr Auto-Clicker"
+    },
+    "icons": {
+        "16": "image.png",
+        "64": "image.png",
+        "128": "image.png"
     }
 }
