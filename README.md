@@ -1,4 +1,4 @@
-# Songsterr Auto-Clicker Chrome Extension For Songsterr
+# Songsterr Auto-Clicker Chrome Extension
 
 *This extension was vibe coded - built purely on good vibes and musical inspiration! 🎸*
 
